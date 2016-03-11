@@ -1,6 +1,8 @@
 mindwave-python
 ===============
 
+So I need this to work in python 3 so that is why I forked the original. This software is not stable, probably doesn't work on arch linux(which I use) let alone anything else. If you make it work feel free to send me a pull request.
+
 Linux and Mac-friendly Python parser to connect and interact with multiple NeuroSky MindWave headsets from one machine.
 
 This is the software used by Moonshot Lab at Barkley (http://moonshot.barkleyus.com/) for all of our internal MindWave projects.
